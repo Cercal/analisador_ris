@@ -97,10 +97,10 @@ O script busca automaticamente por estes termos (com variações em português, 
 text
 
 projeto-ris-analyser/
-├── analisador_ris.py          # Script principal
-├── README.md                  # Este arquivo
-├── LICENSE                    # Licença CC BY-NC 4.0
-└── exemplos/                  # Exemplos de uso (opcional)
+├── analisador_ris.py
+├── README.md
+├── LICENSE
+└── exemplos/
     └── arquivo_exemplo.ris
 
 🔧 Personalização
@@ -219,4 +219,4 @@ Compromisso com Qualidade
 
 Desenvolvido para pesquisa acadêmica com transparência metodológica 📚✨
 
-Última atualização: ${data}
+Última atualização: Novembro 2025
