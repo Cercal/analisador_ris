@@ -2,9 +2,9 @@
 
 ## Descrição
 
-Script em Python para processar arquivos .RIS e extrair estatísticas bibliométricas sobre publicações acadêmicas relacionadas a resíduos eletrônicos e e-waste.
+Script em Python para processar arquivos .RIS e extrair estatísticas bibliométricas sobre publicações acadêmicas relacionadas a resíduos de equipamentos elétricos e eletrônicos (REEE).
 
-**Nota sobre Desenvolvimento:** Este código foi desenvolvido com assistência de IA generativa como ferramenta de apoio, com personalização e validação para pesquisa sobre resíduos eletrônicos.
+**Nota sobre Desenvolvimento:** Este código foi desenvolvido com assistência de IA generativa como ferramenta de apoio.
 
 ## Funcionalidades
 
@@ -51,9 +51,5 @@ Creative Commons Attribution-NonCommercial 4.0 International
 
 Permitido: uso educacional, pesquisa, adaptações
 Proibido: uso comercial
-
-## Desenvolvimento
-
-Desenvolvido com suporte de IA generativa, validado e adaptado para pesquisa acadêmica sobre resíduos eletrônicos.
 
 Última atualização: Novembro 2025
